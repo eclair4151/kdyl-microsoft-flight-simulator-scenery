@@ -1,0 +1,8 @@
+<Project Version="2" Name="kdyl_eclair4151" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\eclair4151-airport-kdyl-eclair4151.xml</Package>
+	</Packages>
+</Project>
+
