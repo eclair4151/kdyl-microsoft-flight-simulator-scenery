@@ -6,14 +6,19 @@
       "date": 132399161780000000
     },
     {
+      "path": "manifest.json",
+      "size": 271,
+      "date": 132446060210626587
+    },
+    {
       "path": "scenery/CVX4151.BGL",
-      "size": 987,
-      "date": 132446060210507352
+      "size": 2281,
+      "date": 132446110226127286
     },
     {
       "path": "scenery/kydyl_eclair4151.bgl",
-      "size": 819,
-      "date": 132446060210437149
+      "size": 5591,
+      "date": 132446110226017842
     }
   ]
 }
