@@ -8,3 +8,7 @@ The compiled scenery can be downloaded directly from https://flightsim.to/file/5
 ![screenshot1](https://i.imgur.com/OCMf3Ya.jpg)<br>
 ![screenshot1](https://i.imgur.com/rw5vban.jpg)<br>
 ![screenshot1](https://i.imgur.com/LbdZmwB.jpeg)<br>
+
+<br><br>
+This file is copyrighted and exclusively hosted on Flightsim.to
+Any direct redistribution of this scenery without permission is prohibited.
