@@ -10,5 +10,5 @@ The compiled scenery can be downloaded directly from https://flightsim.to/file/5
 ![screenshot1](https://i.imgur.com/LbdZmwB.jpeg)<br>
 
 <br><br>
-This file is copyrighted and exclusively hosted on Flightsim.to
+This file is copyrighted and exclusively hosted on Flightsim.to<br>
 Any direct redistribution of this scenery without permission is prohibited.
